@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "NULL",
-                "value": "NULL"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": true,
@@ -39,8 +39,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "NULL",
-                "value": "NULL"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": true
@@ -58,8 +58,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "NULL",
-                "value": "NULL"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": true,
@@ -78,8 +78,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "NULL",
-                "value": "NULL"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": true
@@ -97,8 +97,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "NULL",
-                "value": "NULL"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": true,
@@ -117,8 +117,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "NULL",
-                "value": "NULL"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": true,
@@ -137,8 +137,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "NULL",
-                "value": "NULL"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": true
@@ -156,8 +156,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "NULL",
-                "value": "NULL"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": true,
@@ -173,7 +173,7 @@
           "type": "basic.constant",
           "data": {
             "name": "MODE",
-            "value": "1'b0",
+            "value": "\"0b0\"",
             "local": false
           },
           "position": {
@@ -186,7 +186,7 @@
           "type": "basic.constant",
           "data": {
             "name": "BLUE_CURRENT",
-            "value": "6'b000000",
+            "value": "\"0b000000\"",
             "local": false
           },
           "position": {
@@ -199,7 +199,7 @@
           "type": "basic.constant",
           "data": {
             "name": "RED_CURRENT",
-            "value": "6'b000000",
+            "value": "\"0b000000\"",
             "local": false
           },
           "position": {
@@ -212,7 +212,7 @@
           "type": "basic.constant",
           "data": {
             "name": "GREEN_CURRENT",
-            "value": "6'b000000",
+            "value": "\"0b000000\"",
             "local": false
           },
           "position": {

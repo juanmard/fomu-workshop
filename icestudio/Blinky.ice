@@ -1,10 +1,10 @@
 {
   "version": "1.2",
   "package": {
-    "name": "",
-    "version": "",
-    "description": "",
-    "author": "",
+    "name": "Blinky",
+    "version": "0.1",
+    "description": "Simple blinky example.",
+    "author": "Juan Manuel Rico",
     "image": ""
   },
   "design": {
@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "rgb0",
-                "value": "A5"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": false
@@ -38,8 +38,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "rgb1",
-                "value": "B5"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": false
@@ -57,8 +57,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "clk",
-                "value": "F4"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": false,
@@ -77,8 +77,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "rgb2",
-                "value": "C5"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": false
@@ -96,8 +96,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "usb_dn",
-                "value": "A2"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": false
@@ -115,8 +115,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "usb_dp",
-                "value": "A1"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": false
@@ -131,7 +131,7 @@
           "type": "basic.constant",
           "data": {
             "name": "mode",
-            "value": "1'b1",
+            "value": "\"0b1\"",
             "local": false
           },
           "position": {
@@ -144,7 +144,7 @@
           "type": "basic.constant",
           "data": {
             "name": "current",
-            "value": "6'b000011",
+            "value": "\"0b000011\"",
             "local": false
           },
           "position": {

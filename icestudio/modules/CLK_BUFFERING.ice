@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "NULL",
-                "value": "NULL"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": true,
@@ -39,8 +39,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "NULL",
-                "value": "NULL"
+                "name": "",
+                "value": "0"
               }
             ],
             "virtual": true

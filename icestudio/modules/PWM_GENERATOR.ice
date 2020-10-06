@@ -1,7 +1,7 @@
 {
   "version": "1.2",
   "package": {
-    "name": "pwm_generator",
+    "name": "PWM_GENERATOR",
     "version": "0.1",
     "description": "PWM generator.",
     "author": "Juan Manuel Rico",
