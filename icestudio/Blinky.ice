@@ -19,8 +19,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "",
-                "value": "0"
+                "name": "rgb0",
+                "value": "A5"
               }
             ],
             "virtual": false
@@ -38,8 +38,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "",
-                "value": "0"
+                "name": "rgb1",
+                "value": "B5"
               }
             ],
             "virtual": false
@@ -57,8 +57,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "",
-                "value": "0"
+                "name": "clk",
+                "value": "F4"
               }
             ],
             "virtual": false,
@@ -77,8 +77,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "",
-                "value": "0"
+                "name": "rgb2",
+                "value": "C5"
               }
             ],
             "virtual": false
@@ -96,8 +96,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "",
-                "value": "0"
+                "name": "usb_dn",
+                "value": "A2"
               }
             ],
             "virtual": false
@@ -115,8 +115,8 @@
             "pins": [
               {
                 "index": "0",
-                "name": "",
-                "value": "0"
+                "name": "usb_dp",
+                "value": "A1"
               }
             ],
             "virtual": false

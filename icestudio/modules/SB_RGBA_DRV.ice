@@ -8,7 +8,7 @@
     "image": ""
   },
   "design": {
-    "board": "icezum",
+    "board": "fomu",
     "graph": {
       "blocks": [
         {
