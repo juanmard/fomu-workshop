@@ -69,6 +69,26 @@
           }
         },
         {
+          "id": "70cad7b1-403f-485d-8a38-f621b3fb5350",
+          "type": "basic.input",
+          "data": {
+            "name": "",
+            "pins": [
+              {
+                "index": "0",
+                "name": "clk",
+                "value": "F4"
+              }
+            ],
+            "virtual": false,
+            "clock": false
+          },
+          "position": {
+            "x": 168,
+            "y": 264
+          }
+        },
+        {
           "id": "5a1323c3-4597-429f-a9c7-e8ff5b23d9b3",
           "type": "basic.output",
           "data": {
@@ -213,6 +233,16 @@
           "target": {
             "block": "69ae577b-ac2d-4f56-9596-ffcb4021899a",
             "port": "in"
+          }
+        },
+        {
+          "source": {
+            "block": "70cad7b1-403f-485d-8a38-f621b3fb5350",
+            "port": "out"
+          },
+          "target": {
+            "block": "f1fe554e-d771-4fb6-9a5e-fd8ba9aa72b5",
+            "port": "788c569d-cf7f-4dae-aac1-76189ebc5ec8"
           }
         }
       ]
