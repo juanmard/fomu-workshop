@@ -9,3 +9,4 @@ Verilog and VHDL (the toolchain we are using only supports Verilog).
    verilog
    migen
    spinal
+   icestudio
