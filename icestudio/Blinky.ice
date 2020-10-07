@@ -127,6 +127,25 @@
           }
         },
         {
+          "id": "87665084-46bd-4bc9-8904-ba5e1d5f25fa",
+          "type": "basic.output",
+          "data": {
+            "name": "USB_DP_PU",
+            "pins": [
+              {
+                "index": "0",
+                "name": "usb_dp_pu",
+                "value": "A4"
+              }
+            ],
+            "virtual": false
+          },
+          "position": {
+            "x": 120,
+            "y": 952
+          }
+        },
+        {
           "id": "1dd78ea6-3955-462b-a500-2b60b6f150a0",
           "type": "basic.constant",
           "data": {
@@ -184,8 +203,8 @@
           "id": "f7f8fbf8-4b48-469a-9f57-425e689b3369",
           "type": "c4dd08263a85a91ba53e2ae2b38de344c5efcb52",
           "position": {
-            "x": -56,
-            "y": 824
+            "x": -16,
+            "y": 872
           },
           "size": {
             "width": 96,
@@ -420,6 +439,16 @@
           "target": {
             "block": "3aa5743f-5065-4847-a53f-fb7319531ce8",
             "port": "ea761b76-2554-46fc-9436-991ee3fd292a"
+          }
+        },
+        {
+          "source": {
+            "block": "f7f8fbf8-4b48-469a-9f57-425e689b3369",
+            "port": "19c8f68d-5022-487f-9ab0-f0a3cd58bead"
+          },
+          "target": {
+            "block": "87665084-46bd-4bc9-8904-ba5e1d5f25fa",
+            "port": "in"
           }
         }
       ]
